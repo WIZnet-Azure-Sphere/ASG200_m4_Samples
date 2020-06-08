@@ -1,0 +1,10 @@
+E:/__TeamB/__git/wiznet-azure-sphere-git/ASG200_m4_Samples/Sample_Code/BareMetal/DHCP_Server/out/ARM-Debug/CMakeFiles/Bare_Metal_RTApp_GPIO.dir
+E:/__TeamB/__git/wiznet-azure-sphere-git/ASG200_m4_Samples/Sample_Code/BareMetal/DHCP_Server/out/ARM-Debug/CMakeFiles/MakeImage.dir
+E:/__TeamB/__git/wiznet-azure-sphere-git/ASG200_m4_Samples/Sample_Code/BareMetal/DHCP_Server/out/ARM-Debug/CMakeFiles/edit_cache.dir
+E:/__TeamB/__git/wiznet-azure-sphere-git/ASG200_m4_Samples/Sample_Code/BareMetal/DHCP_Server/out/ARM-Debug/CMakeFiles/rebuild_cache.dir
+E:/__TeamB/__git/wiznet-azure-sphere-git/ASG200_m4_Samples/Sample_Code/BareMetal/DHCP_Server/out/ARM-Debug/lib/MT3620_M4_Driver/CMakeFiles/edit_cache.dir
+E:/__TeamB/__git/wiznet-azure-sphere-git/ASG200_m4_Samples/Sample_Code/BareMetal/DHCP_Server/out/ARM-Debug/lib/MT3620_M4_Driver/CMakeFiles/MT3620_M4_Driver.dir
+E:/__TeamB/__git/wiznet-azure-sphere-git/ASG200_m4_Samples/Sample_Code/BareMetal/DHCP_Server/out/ARM-Debug/lib/MT3620_M4_Driver/CMakeFiles/rebuild_cache.dir
+E:/__TeamB/__git/wiznet-azure-sphere-git/ASG200_m4_Samples/Sample_Code/BareMetal/DHCP_Server/out/ARM-Debug/lib/MT3620_M4_Driver/lib/MT3620_M4_BSP/CMakeFiles/MT3620_M4_BSP.dir
+E:/__TeamB/__git/wiznet-azure-sphere-git/ASG200_m4_Samples/Sample_Code/BareMetal/DHCP_Server/out/ARM-Debug/lib/MT3620_M4_Driver/lib/MT3620_M4_BSP/CMakeFiles/edit_cache.dir
+E:/__TeamB/__git/wiznet-azure-sphere-git/ASG200_m4_Samples/Sample_Code/BareMetal/DHCP_Server/out/ARM-Debug/lib/MT3620_M4_Driver/lib/MT3620_M4_BSP/CMakeFiles/rebuild_cache.dir
