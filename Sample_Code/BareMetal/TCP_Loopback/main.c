@@ -185,7 +185,6 @@ _Noreturn void RTCoreMain(void)
 
     while (1)
     {
-
         // Open Multi SOCK(1,2) as as TCP Server
         loopback_tcps(1, s1_Buf, 50000);
         loopback_tcps(2, s2_Buf, 50001);
