@@ -28,7 +28,7 @@ Follow these steps to build and run the application with Visual Studio:
 
 <img src="https://github.com/WIZnet-Azure-Sphere/ASG200_App/blob/master/Docs/references/visual-studio-build-the-project.png?raw=true">
 
-4. Press F5 to start the application with debugging.
+4. Press <kbd>**F5**</kbd> to start the application with debugging.
 
 
 ### Run with Visual Studio Code
@@ -40,6 +40,6 @@ Follow these steps to build and run the application with Visual Studio Code:
 <img src="https://github.com/WIZnet-Azure-Sphere/ASG200_App/blob/master/Docs/references/visual-studio-code-open-project-folder.png?raw=true">
 
 
-2. Press F7 to build the project
+2. Press <kbd>**F7**</kbd> to build the project
 
-3. Press F5 to start the application with debugging
+3. Press <kbd>**F5**</kbd> to start the application with debugging

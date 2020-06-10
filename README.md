@@ -14,7 +14,7 @@ You can check the samples below.
 
 ### Bare Metal
 
-* [DHCP Client](./sample_code/BareMetal/DHCP_Client/README.md)
-* [DHCP Server](./Sample_Code/BareMetal/DHCP_Server/README.md)
-* [TCP Loopback](./Sample_Code/BareMetal/TCP_Loopback/README.md)
+* [DHCP Client](https://github.com/WIZnet-Azure-Sphere/ASG200_m4_Samples/tree/master/Sample_Code/BareMetal/DHCP_Client)
+* [DHCP Server](https://github.com/WIZnet-Azure-Sphere/ASG200_m4_Samples/tree/master/Sample_Code/BareMetal/DHCP_Server)
+* [TCP Loopback](https://github.com/WIZnet-Azure-Sphere/ASG200_m4_Samples/tree/master/Sample_Code/BareMetal/TCP_Loopback)
 
