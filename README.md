@@ -10,7 +10,7 @@ $ git clone https://github.com/WIZnet-Azure-Sphere/ASG200_App
 
 ## Samples
 
-You can check the samples below.
+Below is available samples.
 
 ### Bare Metal
 
