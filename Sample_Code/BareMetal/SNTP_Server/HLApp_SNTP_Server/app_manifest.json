@@ -1,6 +1,6 @@
 {
   "SchemaVersion": 1,
-  "Name": "HLAPP_MBOX_SNTP_SERVER",
+  "Name": "HLApp_SNTP_Server",
   "ComponentId": "0194a35c-6048-40dc-aa3c-371a79b03560",
   "EntryPoint": "/bin/app",
   "CmdArgs": [],

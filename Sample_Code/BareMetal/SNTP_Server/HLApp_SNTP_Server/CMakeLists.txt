@@ -3,7 +3,7 @@
 
 cmake_minimum_required(VERSION 3.10)
 
-project(IntercoreComms_HighLevelApp C)
+project(HLApp_SNTP_Server C)
 
 azsphere_configure_tools(TOOLS_REVISION "20.04")
 azsphere_configure_api(TARGET_API_SET "5+Beta2004")

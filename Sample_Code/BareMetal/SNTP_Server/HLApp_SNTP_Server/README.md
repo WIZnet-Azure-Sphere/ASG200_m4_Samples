@@ -1,9 +1,12 @@
-# ASG200 M4 real-time application sample: SNTP Server - Real-time app
+# ASG200 M4 real-time application sample: SNTP Server - High-level app
 
-Real-time application to manage SNTP server.
 
-* Start SNTP server
-* Receive time data from HL app and update to SNTP server
+High-level application for time sync to SNTP server.
+
+* Manage system time using time-sync service
+* Periodic network time synchronization
+* Send time data to Real-time application
+
 
 
 ## Build and Run the Application
@@ -14,7 +17,7 @@ The application can be run and developed with Visual Studio and Visual Studio Co
 
 Follow these steps to build and run the application with Visual Studio:
 
-1. Start Visual Studio, From the File menu, select `Open` > `Folder` and navigate to the current sample path, `RTApp_SNTP_Server`.
+1. Start Visual Studio, From the File menu, select `Open` > `Folder` and navigate to the current sample path, `HLApp_SNTP_Server`.
 
 2. From the Select Startup Item menu, on the tool bar, select `GDB Debugger (RTCore)`.
 
@@ -32,7 +35,7 @@ Follow these steps to build and run the application with Visual Studio:
 
 Follow these steps to build and run the application with Visual Studio Code:
 
-1. Open `RTApp_SNTP_Server` folder.
+1. Open `HLApp_SNTP_Server` folder.
 
 <img src="https://github.com/WIZnet-Azure-Sphere/ASG200_App/blob/master/Docs/references/visual-studio-code-open-project-folder.png?raw=true">
 
