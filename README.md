@@ -17,4 +17,4 @@ Below is available samples.
 * [DHCP Client](https://github.com/WIZnet-Azure-Sphere/ASG200_m4_Samples/tree/master/Sample_Code/BareMetal/DHCP_Client)
 * [DHCP Server](https://github.com/WIZnet-Azure-Sphere/ASG200_m4_Samples/tree/master/Sample_Code/BareMetal/DHCP_Server)
 * [TCP Loopback](https://github.com/WIZnet-Azure-Sphere/ASG200_m4_Samples/tree/master/Sample_Code/BareMetal/TCP_Loopback)
-
+* [SNTP Server](https://github.com/WIZnet-Azure-Sphere/ASG200_m4_Samples/tree/master/Sample_Code/BareMetal/SNTP_Server)
