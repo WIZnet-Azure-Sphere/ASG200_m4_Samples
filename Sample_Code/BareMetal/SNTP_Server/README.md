@@ -2,8 +2,17 @@
 
 SNTP server sample uses inter-core communication to send/receivce time data.
 
-* **HL app**: sync time with network and send time data to Real-time app
-* **RT app**: Receive the time data from High-level app
+* **HL(High-level) app**
+  * Sync time using public network time-sync service
+  * Send time data to Real-time app using inter-core communication
+* **RT app**
+  * Run SNTP server for private network
+  * Receive the time data from High-level app and sync time to SNTP server
+  
+<br/>
+
+![SNTP Server sample](../../../Documents/images/sample_sntp_server.png)
+
 
 ## Build and Run the application
 
