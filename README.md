@@ -5,7 +5,7 @@ Provides real-time application samples for using a private network in M4 core. W
 
 ### To Clone this repository:
 ```
-$ git clone https://github.com/WIZnet-Azure-Sphere/ASG200_App
+$ git clone https://github.com/WIZnet-Azure-Sphere/ASG200_m4_Samples
 ```
 
 ## Samples
